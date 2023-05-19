@@ -2,7 +2,6 @@
 layout: default
 title: Step 1 - Overview
 nav_order: 10
-link_to_gradescope: {{ site.gradescope }}
 ---
 
 # {{page.title}}
